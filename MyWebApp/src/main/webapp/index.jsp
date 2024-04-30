@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello! I am implementing scripted CICD pipeline! </h2>
+<h2>Hello! I am implementing scripted CICD pipeline webhook! </h2>
 </body>
 </html>
